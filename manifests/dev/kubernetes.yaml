@@ -30,7 +30,7 @@ spec:
     spec:
       containers:
       - name: hello-cloudbuild
-        image: gcr.io/anthos-sandbox-275220/my-repository/hello-cloudbuild:1f084bf
+        image: gcr.io/anthos-sandbox-275220/my-repository/hello-cloudbuild:5903699
         ports:
         - containerPort: 8080
 ---
